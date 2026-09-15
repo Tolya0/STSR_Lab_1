@@ -1,2 +1,6 @@
 hello world
-qwertyui
+<<<<<<< HEAD
+=======
+oh shit what r u doing mens
+123456789
+>>>>>>> Dev
